@@ -1,0 +1,127 @@
+2025-05-28 12:17:22,517 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:18:42,045 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:19:37,962 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:21:04,518 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:21:04,521 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:21:04,522 INFO Strategy gap_fill loaded
+2025-05-28 12:21:04,523 INFO Strategy mean_reversion loaded
+2025-05-28 12:21:04,524 INFO Strategy momentum_breakout loaded
+2025-05-28 12:21:04,524 INFO Backtest mode not fully implemented - exiting.
+2025-05-28 12:26:58,857 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:26:58,859 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:26:58,859 INFO Strategy gap_fill loaded
+2025-05-28 12:26:58,860 INFO Strategy mean_reversion loaded
+2025-05-28 12:26:58,861 INFO Strategy momentum_breakout loaded
+2025-05-28 12:26:58,861 INFO === Starting Backtests ===
+2025-05-28 12:26:58,861 INFO [gap_fill] Sharpe: 1.20 | Win rate: 60.00% | Drawdown: 1.00%
+2025-05-28 12:26:58,861 INFO [mean_reversion] Sharpe: 1.20 | Win rate: 60.00% | Drawdown: 1.00%
+2025-05-28 12:26:58,861 INFO [momentum_breakout] Sharpe: 1.20 | Win rate: 60.00% | Drawdown: 1.00%
+2025-05-28 12:26:58,861 INFO [opening_range_breakout] Sharpe: 1.20 | Win rate: 60.00% | Drawdown: 1.00%
+2025-05-28 12:26:58,861 INFO === Backtests Complete ===
+2025-05-28 12:33:34,710 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:33:34,712 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:33:34,712 INFO Strategy gap_fill loaded
+2025-05-28 12:33:34,713 INFO Strategy mean_reversion loaded
+2025-05-28 12:33:34,713 INFO Strategy momentum_breakout loaded
+2025-05-28 12:33:34,713 INFO === Starting Backtests ===
+2025-05-28 12:33:34,822 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:34,988 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,107 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,109 INFO [gap_fill] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:33:35,221 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,336 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,493 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,495 INFO [mean_reversion] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:33:35,605 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,720 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,860 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:35,863 INFO [momentum_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:33:35,985 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:36,099 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:36,223 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:33:36,225 INFO [opening_range_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:33:36,225 INFO === Backtests Complete ===
+2025-05-28 12:34:40,359 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:34:40,361 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:34:40,361 INFO Strategy gap_fill loaded
+2025-05-28 12:34:40,365 INFO Strategy mean_reversion loaded
+2025-05-28 12:34:40,365 INFO Strategy momentum_breakout loaded
+2025-05-28 12:34:40,365 INFO === Starting Backtests ===
+2025-05-28 12:34:40,394 ERROR Data fetch error SPY HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/SPY/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e6a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,399 ERROR Data fetch error QQQ HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/QQQ/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e8b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,402 ERROR Data fetch error IWM HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/IWM/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e520>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,402 INFO [gap_fill] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:34:40,404 ERROR Data fetch error SPY HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/SPY/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e580>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,407 ERROR Data fetch error QQQ HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/QQQ/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3ebb0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,410 ERROR Data fetch error IWM HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/IWM/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3ea90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,410 INFO [mean_reversion] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:34:40,412 ERROR Data fetch error SPY HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/SPY/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3ed60>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,415 ERROR Data fetch error QQQ HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/QQQ/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e0a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,417 ERROR Data fetch error IWM HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/IWM/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,418 INFO [momentum_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:34:40,420 ERROR Data fetch error SPY HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/SPY/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e2b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,423 ERROR Data fetch error QQQ HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/QQQ/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3ec40>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,425 ERROR Data fetch error IWM HTTPSConnectionPool(host='paper-api.alpaca.markets2', port=443): Max retries exceeded with url: /v2/stocks/IWM/bars?timeframe=1Min&limit=11700 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106d3e490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+2025-05-28 12:34:40,425 INFO [opening_range_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:34:40,425 INFO === Backtests Complete ===
+2025-05-28 12:35:51,647 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:35:51,651 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:35:51,652 INFO Strategy gap_fill loaded
+2025-05-28 12:35:51,653 INFO Strategy mean_reversion loaded
+2025-05-28 12:35:51,653 INFO Strategy momentum_breakout loaded
+2025-05-28 12:35:51,653 INFO === Starting Backtests ===
+2025-05-28 12:35:51,769 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:51,888 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,003 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,005 INFO [gap_fill] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:35:52,119 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,252 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,367 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,369 INFO [mean_reversion] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:35:52,490 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,605 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,729 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,732 INFO [momentum_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:35:52,849 ERROR Data fetch error SPY 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:52,958 ERROR Data fetch error QQQ 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:53,070 ERROR Data fetch error IWM 404 Client Error: Not Found for url: https://paper-api.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:35:53,070 INFO [opening_range_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:35:53,071 INFO === Backtests Complete ===
+2025-05-28 12:36:37,763 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:36:37,765 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:36:37,765 INFO Strategy gap_fill loaded
+2025-05-28 12:36:37,766 INFO Strategy mean_reversion loaded
+2025-05-28 12:36:37,767 INFO Strategy momentum_breakout loaded
+2025-05-28 12:36:37,767 INFO === Starting Backtests ===
+2025-05-28 12:36:37,901 ERROR Data fetch error SPY 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,015 ERROR Data fetch error QQQ 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,137 ERROR Data fetch error IWM 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,139 INFO [gap_fill] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:36:38,249 ERROR Data fetch error SPY 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,367 ERROR Data fetch error QQQ 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,475 ERROR Data fetch error IWM 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,477 INFO [mean_reversion] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:36:38,600 ERROR Data fetch error SPY 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,710 ERROR Data fetch error QQQ 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,835 ERROR Data fetch error IWM 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:38,837 INFO [momentum_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:36:38,950 ERROR Data fetch error SPY 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/SPY/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:39,065 ERROR Data fetch error QQQ 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/QQQ/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:39,186 ERROR Data fetch error IWM 400 Client Error: Bad Request for url: https://data.alpaca.markets/v2/stocks/IWM/bars?timeframe=1Min&limit=11700
+2025-05-28 12:36:39,188 INFO [opening_range_breakout] Sharpe: 0.00 | Win rate: 0.00% | Drawdown: 0.00%
+2025-05-28 12:36:39,188 INFO === Backtests Complete ===
+2025-05-28 12:42:05,481 ERROR Alpaca connection error: forbidden.
+2025-05-28 12:43:00,468 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:43:15,957 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:44:12,473 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:44:12,475 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:44:12,476 INFO Strategy gap_fill loaded
+2025-05-28 12:44:12,476 INFO Strategy mean_reversion loaded
+2025-05-28 12:44:12,476 INFO Strategy momentum_breakout loaded
+2025-05-28 12:44:12,477 INFO === Starting Backtests ===
+2025-05-28 12:46:52,328 INFO Alpaca account PA360TB97ZTV connected
+2025-05-28 12:46:52,331 INFO Strategy opening_range_breakout loaded
+2025-05-28 12:46:52,331 INFO Strategy gap_fill loaded
+2025-05-28 12:46:52,332 INFO Strategy mean_reversion loaded
+2025-05-28 12:46:52,332 INFO Strategy momentum_breakout loaded
+2025-05-28 12:46:52,332 INFO === Starting Backtests ===
